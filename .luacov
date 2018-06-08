@@ -1,0 +1,6 @@
+return {
+  exclude = {
+    'src/rethinkdb/internal/protodef',
+  },
+  include = {'src'},
+}
